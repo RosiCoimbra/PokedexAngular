@@ -2,3 +2,4 @@
   $value: $size / 16;
   @return #{$value}rem;
 }
+//math.div($size, 16) or calc($size / 16)
